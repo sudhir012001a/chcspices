@@ -1,0 +1,18 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 64 64">
+  <!-- Dark masala brown circle background -->
+  <circle cx="32" cy="32" r="32" fill="#3e2723"/>
+  <!-- Font Awesome fa-leaf path, scaled/translated to fit 64x64 circle -->
+  <!-- Original FA viewBox 0 0 512 512, scaled to ~34px centered at 32,32 -->
+  <g transform="translate(15, 12) scale(0.067)">
+    <path d="M272 96c-78.6 0-145.1 51.5-167.7 122.5c33.6-17 
+             71.5-26.5 111.7-26.5l88 0c8.8 0 16 7.2 16 16s-7.2 16-16 16
+             l-16 0-72 0c-83.9 0-152 68.1-152 152l0 8 0 80
+             c0 17.7 14.3 32 32 32l160 0 0-144 0-16 0-72
+             c0-39.8 32.2-72 72-72l0 144
+             c0 39.8-32.2 72-72 72l0 16 0 144 128 0
+             0-168c35.3-4 64-33.8 64-70.8L448 336l0-16-48 0
+             c-8.8 0-16-7.2-16-16s7.2-16 16-16l48 0 0-64
+             c0-70.7-57.3-128-128-128l-48 0z"
+          fill="#d84315"/>
+  </g>
+</svg>
